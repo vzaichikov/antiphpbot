@@ -1,0 +1,8 @@
+*~
+vendor
+composer.lock
+/nbproject/private/
+/phpunit.xml
+/coverage/
+/drivers/
+.phpunit.result.cache

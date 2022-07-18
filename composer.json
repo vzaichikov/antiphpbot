@@ -1,0 +1,9 @@
+{
+    "require": {
+        "zrashwani/arachnid": "dev-master",
+        "wa72/simplelogger": "^1.1",
+        "ayesh/php-timer": "^2.2",
+        "campo/random-user-agent": "^1.3",
+        "vipnytt/sitemapparser": "^1.0"
+    }
+}
