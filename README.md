@@ -1,1 +1,1 @@
-#Simple multicurl web application ddos tool
+🔥 Simple multicurl web application ddos tool
